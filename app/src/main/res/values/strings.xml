@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My IMC</string>
+    <string name="btn_entendi">Entendi</string>
+    <string name="txt_title_dialog">Resultato IMC</string>
+    <string name="txt_result_dialog">result</string>
+    <string name="weight_in_kg">Peso em Kg:</string>
+    <string name="btn_calculate">Calcular IMC</string>
+    <string name="height_in_cm">Altura em Cm:</string>
+    <string name="title_maim">CALCULAR IMC</string>
+    <string name="input_weigth">Digite seu peso (Ex:61)</string>
+    <string name="input_heitgth">Digite sua altura (Ex 1.69)</string>
+    <string name="sinalise_textView">:</string>
+    <string name="title_dialog">App My IMC</string>
+
+    <string name="menu_info">Info</string>
+    <string name="txt_url">URL:</string>
+
+    <string name="desenvolvedor_android_jr">Desenvolvedor Android Jr.</string>
+    <string name="vers_o_1_0_0">Versão 1.0.0</string>
+    <string name="desenvolvido_por">Desenvolvido por</string>
+    <string name="wm_digital_techs">RangelDev</string>
+    <string name="contate_nos">Contate-nos</string>
+    <string name="marcos_correia_rangel">Marcos F.Correia Rangel</string>
+    <string name="linkdin">linkdin</string>
+    <string name="email">email</string>
+    <string name="Desenvolvedor">Desenvolvedor</string>
+    <string name="github">github</string>
+    <string name="linkedin">linkedin</string>
+    <string name="botao_sair">botão sair</string>
+    <string name="botao_privacidade">Botão politica de privacidade</string>
+    <string name="dicas">Dicas</string>
+    <string name="receitas">Receitas</string>
+    <string name="info">Info</string>
+    <string name="politica_privacidade">Politica Privacidade</string>
+</resources><!--pallet colors in -->
+    <!--https://coolors.co/100b00-f5b700-f4ff1f-5b0363-1fad66-fffafb-44af69-0ab6ff-->

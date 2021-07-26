@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="snow">#FFFAFB</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow_ryb">#F4FF1F</color>
+    <color name="orege_yellow">#F5B700</color>
+    <color name="go_green">#1FAD66</color>
+    <color name="stell_pink">#C807DA</color>
+    <color name="midnight">#5B0363</color>
+    <color name="blac_chocolate">#100B00</color>
+    <color name="black">#FF000000</color>
+</resources>
